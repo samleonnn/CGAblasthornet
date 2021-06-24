@@ -1,0 +1,192 @@
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Renaldo Fareza\Downloads\6. CGA (Thu, 07.30)\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\3. All state_Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Renaldo Fareza\Downloads\Compressed\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\5. Sting Attack_Final Project\4. Fly_Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0105\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\10. Facing Direction_Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\0605\11. Start CrossHair_Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\User1\Documents\SAM\PA2\10052021\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\16. Crosshair Homing_Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1105\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\User1\Documents\SAM\PA2\11052021\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Gaming 3i\Downloads\20. Bug fixing 2_Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\obj\Debug\Final_Project.Sprite_Animation.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 2 - Blast Hornet\1. Final Result\Final Project\Final Project\obj\Debug\Final Project.pdb
