@@ -16,7 +16,7 @@ functions on the program, every element needs the right method and algorithm for
 smoothly and efficiently. To fulfil them, we compare various methods to see which method can
 satisfy our expectation for the program. 
 
-This program created to fulfill first programming assignment in Computer Graphics and Animation course in President University.
+This program created to fulfill second programming assignment in Computer Graphics and Animation course in President University.
 
 Created by:
 
